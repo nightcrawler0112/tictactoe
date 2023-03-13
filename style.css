@@ -8,7 +8,7 @@
 
 nav {
 
-    background-color: rgb(107, 215, 215);
+    background-color: rgb(89, 126, 183);
     color: rgb(22, 32, 28);
 
     display: flex;
@@ -28,7 +28,7 @@ nav ul{
 }
 
 .gamecontainer{
-         background-color: rgb(53, 53, 202);
+         background-color: rgb(147, 147, 234);
          display: flex;
         
          justify-content: center;
@@ -57,7 +57,7 @@ nav ul{
         }
         
         .box:hover{
-            background-color: rgb(172, 147, 198);
+            background-color: rgb(147, 187, 198);
         }
         
         .info {
@@ -72,3 +72,21 @@ nav ul{
         .gameInfo h1{
             font-size: 2.5rem;
         }
+
+        .br-0{
+            border-right: 0;
+        }
+
+        .bl-0{
+            border-left: 0;
+        }
+
+        .bt-0{
+            border-top: 0;
+        }
+
+        .bb-0{
+            border-bottom: 0;
+        }
+
+    
