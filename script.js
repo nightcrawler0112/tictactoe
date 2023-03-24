@@ -60,7 +60,7 @@ Array.from(boxes).forEach(element =>{
 
   reset.addEventListener('click', ()=>{
     let boxtexts = document.querySelectorAll('.boxtext');
-    Array.from(boxtehhhxts).forEach(element => {
+    Array.from(boxtexts).forEach(element => {
         element.innerText = ""
     });
     turn = "X"; 
